@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "frontend (React) and Backend connection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arabog/frontEndBackEndConnection.git"
+  },
+  "author": "iCode-Rx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arabog/frontEndBackEndConnection/issues"
+  },
+  "homepage": "https://github.com/arabog/frontEndBackEndConnection#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
